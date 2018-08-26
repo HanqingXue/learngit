@@ -5,4 +5,5 @@ Hello calt
 demo for checkout
 hheh
 test faster forward
+stash work tree
 
